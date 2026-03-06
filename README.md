@@ -1,10 +1,12 @@
-# Olá, meu é nome Gusthavo
+# Olá, meu nome é Gusthavo
 
 `@gugadev1` • Estudante de ADS • Desenvolvedor em formação
 
-Sou apaixonado por tecnologia e por transformar ideias em projetos práticos.  
-Atualmente estou evoluindo em desenvolvimento backend com Java, integração com APIs e banco de dados relacional. Além disso gosto de aventurar no frontend e criar aplicações fullstack.
-##  Habilidades Técnicas
+Sou apaixonado por tecnologia e por transformar ideias em projetos práticos.
+Atualmente estou evoluindo em desenvolvimento backend com Java, integração com APIs e banco de dados relacional.
+Também gosto de me aventurar no frontend e criar aplicações full stack.
+
+## Habilidades Técnicas
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -15,8 +17,8 @@ Atualmente estou evoluindo em desenvolvimento backend com Java, integração com
 
 ## Estatísticas do GitHub
 <div align="center">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gugadev1&theme=tokyonight" alt="GitHub Stats" />
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gugadev1&theme=tokyonight" alt="Linguagens por Repositorio" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gugadev1&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gugadev1&theme=tokyonight" alt="Linguagens por repositório" />
 </div>
 
 ## Contato
